@@ -1,4 +1,4 @@
-02-# Portfolio Optimization
+# Portfolio Optimization
 
 Status: In Progress
 
