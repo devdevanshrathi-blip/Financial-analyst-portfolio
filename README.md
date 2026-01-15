@@ -1,4 +1,4 @@
-01 - # Financial-Analytics-Portfolio
+# Financial-Analytics-Portfolio
 This repository documents my journey in building strong fundamentals
 in finance, risk management, and business analytics through
 hands-on projects and data-driven analysis.
