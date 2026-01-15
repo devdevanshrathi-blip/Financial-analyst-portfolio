@@ -1,4 +1,4 @@
-03-# Learning Notes
+# Learning Notes
 
 Purpose:
 This folder documents my learning journey in finance, analytics,
